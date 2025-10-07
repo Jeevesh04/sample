@@ -1,0 +1,19 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.header{
+    background-color: darkslategray;
+}
+
+.Logo{
+    padding: 10px 25px;
+    width: 200px;
+    height: auto;
+    transition: transform 0.7s ease;
+}
+
+.Logo:hover{
+    transform: scale(1.1);
+}
